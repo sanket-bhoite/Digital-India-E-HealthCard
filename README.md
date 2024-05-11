@@ -5,12 +5,6 @@ Project comes under:
 1. Virtual health assistant.
 2. Improve medical and emergency communication.
 *******************************************************
-Web Application Link: 
-https://github.com/RADHIKA-JOSHI123/Infinity-HealthCard-Health/tree/main/Web%20Application
-*******************************************************
-Android Application Link:
-https://github.com/RADHIKA-JOSHI123/Infinity-HealthCard-Health/tree/main/Mobile%20Application
-*******************************************************
 Demo Video Link:
 https://drive.google.com/file/d/1cpVQ8aJZSMnMKtaW9fPX84A3mMbQhb14/view?usp=sharing
 or
